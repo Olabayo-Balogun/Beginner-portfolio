@@ -146,7 +146,7 @@ span {
 }
 
 .education {
-  background-image: url(/Img/joanna-kosinska-unsplash.jpg);
+  background-image: url(../Img/joanna-kosinska-unsplash.jpg);
   background-size: cover;
   background-position: top right;
   padding-bottom: 8rem;
